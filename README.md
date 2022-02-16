@@ -6,6 +6,10 @@ By **Matteo Fraschini**, Simone Maurizio La Cava, Giuseppe Rodriguez, Andrea Vit
 
 This approach, which works at subject level, provides a score for each epoch within a single M/EEG trace with the attempt to make this crucial procedure less ambiguous, more objective and reproducible.
 
-**Scorepochs-tools** provides all the repositories related to such tool.
+[Follow this link if you want to read the preprint](https://www.biorxiv.org/content/10.1101/2020.05.26.116434v3.abstract)
+
+**Scorepochs-tools** provides all the repositories related to such tool:
+- [**scorepochs_mat**](https://github.com/Scorepochs-tools/scorepochs_mat) contains the MATLAB version
+- [**scorepochs_py**](https://github.com/Scorepochs-tools/scorepochs_mat) contains the Python version
 
 Contact us at [**scorepochs@gmail.com**](mailto:scorepochs@gmail.com) for further information.
