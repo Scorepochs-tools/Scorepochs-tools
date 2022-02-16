@@ -6,4 +6,4 @@ By **Matteo Fraschini**, Simone Maurizio La Cava, Giuseppe Rodriguez, Andrea Vit
 
 This approach, which works at subject level, provides a score for each epoch within a single M/EEG trace with the attempt to make this crucial procedure less ambiguous, more objective and reproducible.
 
-@Scorepochs-tools account provides all the repositories with the various versions of Scorepochs.
+**Scorepochs-tools** provides all the repositories related to such tool.
