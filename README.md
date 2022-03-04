@@ -1,6 +1,6 @@
 ## Scorepochs: a computer aided scoring tool for resting-state M/EEG epochs
 
-By **Matteo Fraschini**, Simone Maurizio La Cava, Giuseppe Rodriguez, Andrea Vitale, and **Matteo Demuru**
+By [**Matteo Fraschini**](https://scholar.google.it/citations?user=R5gm9Z8AAAAJ&hl=en&oi=ao), [Simone Maurizio La Cava](https://scholar.google.it/citations?user=ilco-ckAAAAJ&hl=en&oi=ao), [Giuseppe Rodriguez](https://scholar.google.it/citations?user=vc7W5_IAAAAJ&hl=en&oi=ao), [Andrea Vitale](https://www.iit.it/people-details/-/people/andrea-vitale), and [**Matteo Demuru**](https://scholar.google.it/citations?user=IU-0PcwAAAAJ&hl=en)
 
 <br>
 
